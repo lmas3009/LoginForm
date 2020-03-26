@@ -1,6 +1,6 @@
-function LoginForm(options){
+function LoginF(options){
     let info = documnet.querySelectorAll("div");
     info.style.color='red';
 }
 
-module.exports.LoginForm = LoginForm;
+module.exports.LoginF = LoginF;
