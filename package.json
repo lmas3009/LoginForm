@@ -1,0 +1,22 @@
+{
+  "name": "loginform",
+  "version": "1.0.0",
+  "description": "Creating a Login Form Page with all css",
+  "main": "loginform.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lmas3009/LoginForm.git"
+  },
+  "keywords": [
+    "LoginForm"
+  ],
+  "author": "LMAS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lmas3009/LoginForm/issues"
+  },
+  "homepage": "https://github.com/lmas3009/LoginForm#readme"
+}
