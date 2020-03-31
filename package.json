@@ -1,6 +1,6 @@
 {
   "name": "loginf",
-  "version": "1.0.002",
+  "version": "1.0.00.1",
   "description": "Creating a Login Form Page with all css",
   "main": "loginform.js",
   "scripts": {
